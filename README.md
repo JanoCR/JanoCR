@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JanoCR
+- 👀 I’m interested in C, C++ and cybersecurity
+- 🌱 I’m currently a grade 12 student looking to get started on CS
+- 📫 You can always mail me at alroac@outlook.com or hit me up on Twitter at @CensoredGaleno
